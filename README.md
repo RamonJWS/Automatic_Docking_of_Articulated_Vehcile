@@ -10,7 +10,13 @@ This autonomy is particularly useful for situations which require high skill and
 
 After reviewing 28 academic papers it was clear that Fuzzy Logic would be the optimal machine learning choice to perform the desired task. It is worth mentioning that other systems such as Neural Networks paired with Fuzzy Logic also performed the task well, but with a marginal increase in performance and extensive increase in domain knowledge.
 
+A system was produced in Simulink and MATLAB that was capable of mathematically modelling the vehicle, control the vehicle to its desired location using Fuzzy Logic, deciding when to switch between forwards and revering systems, and prevent jack-knifing. The system can be seen at the end of this section.
+
 The system designed and modelled consists of 5 Fuzzy Logic controllers and a system capable of mathematical modelling the vehicles response. These Controllers can be divided into 2 categories, one for the control of the vehicle when driving forwards and one for the vehicle reversing. These forwards and reversing controllers require a Fuzzy Logic system to first determine the desired truck and trailer orientation for a given x, y position in the space, and then a second system to determine the steering angle of the vehicle to achieve this desired orientation. For the reversing system an additional Fuzzy Logic controller was required to prevent the jack-knife phenomenon from occurring.
+
+<p align="center">
+  <img src="" width=1000>
+</p>
 
 ## Results
 
