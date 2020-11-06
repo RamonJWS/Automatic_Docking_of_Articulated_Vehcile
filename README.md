@@ -37,5 +37,3 @@ Below i have included two of the randomly chosen starting positions with the tru
 During robustness testing it was found that increasing the vehicles length more than 0.6m would drastically reduce system performance and could take the system up to 12 manoeuvres to successfully dock the vehicle. Having a system that works for all articulated vehicles might be possible. If the project was improved the system would be designed with a larger variance in vehicle size in mind.
 
 The system currently only works for a specific parking space. Some of the papers I reviewed used Neural Networks and Fuzzy Logic to allow for multiple parking lots to be used. If the project was to be improved this should be included.
-
-![Profile views](https://komarev.com/ghpvc/?username=RamonJWS)
