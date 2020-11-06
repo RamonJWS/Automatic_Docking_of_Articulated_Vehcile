@@ -38,4 +38,4 @@ During robustness testing it was found that increasing the vehicles length more 
 
 The system currently only works for a specific parking space. Some of the papers I reviewed used Neural Networks and Fuzzy Logic to allow for multiple parking lots to be used. If the project was to be improved this should be included.
 
-![Profile views](https://gpvc.arturio.dev/Automatic_Docking_of_Articulated_Vehicle) 
+![Profile views](https://komarev.com/ghpvc/?username=RamonJWS)
